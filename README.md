@@ -8,5 +8,5 @@ Je ne peux donc pas garantir que cette fonction fonctionne avec tous les fichier
 Cependant, cette fonction prend en compte le fait qu'un champ puisse être sur plusieurs lignes, à condition que les lignes qui suivent la première ne soient pas une majuscule.
 C'est le cas pour le fichier ics que je devais traiter ... J'espère que c'est la même chose pour tous les ics du monde.
 
-Après, ce code est facile à utiliser (pas de classe, ou de namespace ou de composer et j'en passe), c'est juste une fonction, sans dépendance.
+Ce code est facile à utiliser (pas de classe, ou de namespace ou de composer et j'en passe), c'est juste une fonction, sans dépendance.
 Donc, ça ne coûte rien de l'essayer.
